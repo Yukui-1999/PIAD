@@ -1,5 +1,5 @@
 # PIAD
-This is the official implementation of our MICCAI 2024 paper "[Physical-priors-guided Aortic Dissection Detection using Non-Contrast-Enhanced CT images]".
+This is the official implementation of our MICCAI 2024 paper Physical-priors-guided Aortic Dissection Detection using Non-Contrast-Enhanced CT images.
 
 ![PIAD](PIAD.jpg)
 ## Abstract
