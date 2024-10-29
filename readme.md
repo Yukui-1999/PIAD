@@ -13,3 +13,13 @@ pip install -r requirements.txt
 ```
 ## Citation
 If you find our paper/code useful, please consider citing our work:
+```
+@inproceedings{ding2024physical,
+  title={Physical-Priors-Guided Aortic Dissection Detection Using Non-Contrast-Enhanced CT Images},
+  author={Ding, Zhengyao and Hu, Yujian and Zhang, Hongkun and Wu, Fei and Yang, Shifeng and Du, Xiaolong and Xiang, Yilang and Li, Tian and Chu, Xuesen and Huang, Zhengxing},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={551--561},
+  year={2024},
+  organization={Springer}
+}
+```
